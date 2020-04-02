@@ -1,1 +1,1 @@
-class CreateHauntedHouses 
+class CreateHauntedHouses < ActiveRecord::Migration
